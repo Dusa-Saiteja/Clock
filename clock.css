@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+}
+.container{
+    width: 50%;
+    border: 5px solid black;
+    text-align: center;
+    margin: 20px auto;
+    position: absolute;
+    left: 370px;
+    top: 265px;
+}
+#h1{
+    position: absolute;
+    left: 472px;
+    top: 150px;
+    font-size: 65px;
+}
